@@ -1,0 +1,35 @@
+[12-Sep-2023 06:54:41 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[12-Sep-2023 06:54:41 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[12-Sep-2023 06:54:41 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
+[12-Sep-2023 06:55:55 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[12-Sep-2023 06:55:55 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[12-Sep-2023 06:56:49 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[12-Sep-2023 06:56:49 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[12-Sep-2023 06:56:50 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[12-Sep-2023 06:56:50 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[12-Sep-2023 06:56:52 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[12-Sep-2023 06:56:52 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[12-Sep-2023 06:56:56 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[12-Sep-2023 06:56:56 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[12-Sep-2023 06:56:56 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
+[12-Sep-2023 06:57:03 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[12-Sep-2023 06:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[12-Sep-2023 06:57:03 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[12-Sep-2023 06:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[12-Sep-2023 06:57:07 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[12-Sep-2023 06:57:07 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[12-Sep-2023 06:57:07 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
+[12-Sep-2023 06:57:10 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[12-Sep-2023 06:57:10 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[12-Sep-2023 06:57:10 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
+[13-Sep-2023 07:55:01 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[13-Sep-2023 07:55:01 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[13-Sep-2023 07:55:01 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
+[13-Sep-2023 07:55:09 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 19
+[13-Sep-2023 07:55:09 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/gamewins/public_html/lucky/lifafa.php on line 20
+[13-Sep-2023 07:55:19 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[13-Sep-2023 07:55:19 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[13-Sep-2023 07:55:19 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
+[13-Sep-2023 08:30:08 UTC] PHP Notice:  Undefined variable: err in /home/gamewins/public_html/lucky/lifafa.php on line 141
+[13-Sep-2023 08:30:08 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 156
+[13-Sep-2023 08:30:08 UTC] PHP Notice:  Undefined variable: new in /home/gamewins/public_html/lucky/lifafa.php on line 157
